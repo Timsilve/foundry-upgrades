@@ -5,3 +5,5 @@
 	path = lib/openzeppelin-contracts
 [submodule "lib/openzeppelin-contracts-upgradeable"]
 	path = lib/openzeppelin-contracts-upgradeable
+[submodule "lib/foundry-devops"]
+	path = lib/foundry-devops
